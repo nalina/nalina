@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nalina
+- 👋 Hey, I’m Nalina
 - 👀 I’m interested in java coding
 - 🌱 I’m currently learning design patterns and its examples
 - 💞️ I’m looking to collaborate on design patterns
